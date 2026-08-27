@@ -1,5 +1,6 @@
 {
   "licenses": {
-    "DEMO-0000-0000-0000": {"code": "AAAA-BBBB-CCCC-DDDD", "expire": "2027-12-31", "note": "演示条目"}
+    "DEMO-0000-0000-0000": {"code": "AAAA-BBBB-CCCC-DDDD", "expire": "2027-12-31", "note": "演示条目"},
+    "196ce3fb64779e15": {"code": "P6MN-4VPN-GNAN-Z97K", "expire": "2027-12-31", "note": "dev-machine"}
   }
 }
