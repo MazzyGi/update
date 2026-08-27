@@ -1,1 +1,1 @@
-{"version":"3.1.0","build":310,"min_build":300,"release_date":"2026-08-27","download_page":"https://github.com/MazzyGi/msa-mail-cpp/releases","download_hint":"请前往发布页下载","changelog":["t"]}
+{"version":"3.0.1","build":301,"min_build":300,"release_date":"2026-08-27","download_page":"https://github.com/MazzyGi/msa-mail-cpp/releases","download_hint":"请前往发布页下载最新版本 (Linux/Windows 双平台)","changelog":["CI 修复"]}
